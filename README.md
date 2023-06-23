@@ -1,0 +1,3 @@
+# diabetes
+Machine learning aids early diabetes detection using the PIMA dataset from the National Institute of Diabetes.
+382 million people worldwide have diabetes, and death from the disease will rise by 48% by 2045. It may be avoided by altering lifestyle choices, which lowers the chance of developing cancer and heart disease. To aid doctors in early diagnosis and lifestyle modifications, a prognostic tool is required. Diabetes that is left untreated can cause a number of illnesses, including heart attack, heart failure, and brain damage. Using the PIMA dataset from the National Institute of Diabetes and Digestive and Kidney Diseases, machine learning technologies can assist in the early detection of diabetes.
